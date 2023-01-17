@@ -3,9 +3,11 @@ C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\bin\Debug\DentalClinic_V2_WindowsForm.pdb
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.csproj.AssemblyReference.cache
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.csproj.SuggestedBindingRedirects.cache
-C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.Form1.resources
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.Properties.Resources.resources
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.csproj.GenerateResource.cache
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.csproj.CoreCompileInputs.cache
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.exe
 C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.pdb
+C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.Deseases.resources
+C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.Dashboard.resources
+C:\Users\Ander\Documents\Development\C#\Windows Form\DentalClinic_V2_WindowsForm\DentalClinic_V2_WindowsForm\obj\Debug\DentalClinic_V2_WindowsForm.Patients.resources
